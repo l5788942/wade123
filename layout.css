@@ -1,0 +1,28 @@
+@charset "utf-8";
+*{ 
+padding:0; 
+margin:0; 
+} 
+.all{
+	
+}
+
+.images-content{ 
+position: absolute;
+bottom:0; 
+left:50%;
+z-index: 1; 
+width: 100%; 
+color: #fff; 
+background:#FDFDFD; 
+height:100px; 
+overflow: hidden; 
+}
+.images-wrapper{ 
+width:50%; 
+height:330px; 
+position:relative; 
+} 
+.images-content p{
+	color: #000000;
+}
